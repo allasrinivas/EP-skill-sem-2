@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE XML>
+<Student>
+	<students>
+		<reg.no>190030052</reg.no>
+		<name>Srinivas</name>
+		<email>srinivas@gmail.com</email>
+		<marks>95.0</marks>
+		<class>2nd Year</class>
+	</students>
+	<students>
+		<reg.no>190031166</reg.no>
+		<name>Sai</name>
+		<email>sai@gmail.com</email>
+		<marks>93.0</marks>
+		<class>2nd Year</class>
+	</students>
+	<students>
+		<reg.no>190030111</reg.no>
+		<name>Hemanth</name>
+		<email>hemanth@gmail.com</email>
+		<marks>97.0</marks>
+		<class>3rd Year</class>
+	</students>
+	<students>
+		<reg.no>190031067</reg.no>
+		<name>Arshad</name>
+		<email>mdarshad@gmail.com</email>
+		<marks>97.0</marks>
+		<class>3rd Year</class>
+	</students>
+	<students>
+		<reg.no>190030058</reg.no>
+		<name>Manoj</name>
+		<email>manoj@gmail.com</email>
+		<marks>99.0</marks>
+		<class>4th Year</class>
+	</students>
+</Student>
